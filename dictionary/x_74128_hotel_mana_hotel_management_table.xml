@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="hotel_management Table" max_length="40" name="x_74128_hotel_mana_hotel_management_table" sizeclass="1" type="collection"/>
+</database>
